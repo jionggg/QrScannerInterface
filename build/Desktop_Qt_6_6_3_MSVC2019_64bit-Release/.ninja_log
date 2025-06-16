@@ -1,0 +1,9 @@
+# ninja log v6
+10	390	7717529891032374	ZeissApp1_autogen/timestamp	20c8444977ea4a29
+10	390	7717529891032374	ZeissApp1_autogen/mocs_compilation.cpp	20c8444977ea4a29
+10	390	7717529891032374	C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/ZeissApp1_autogen/timestamp	20c8444977ea4a29
+10	390	7717529891032374	C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/ZeissApp1_autogen/mocs_compilation.cpp	20c8444977ea4a29
+395	3339	7717529891753835	CMakeFiles/ZeissApp1.dir/ZeissApp1_autogen/mocs_compilation.cpp.obj	d7486ba1874094df
+402	3546	7717529891833039	CMakeFiles/ZeissApp1.dir/mainwindow.cpp.obj	d45ea0ae9ee30a54
+398	3708	7717529891753835	CMakeFiles/ZeissApp1.dir/main.cpp.obj	f52241c173045c62
+3708	4265	7717529924910858	ZeissApp1.exe	c76c43b8c505c39f

@@ -1,0 +1,8 @@
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/ZeissApp1.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/edit_cache.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/rebuild_cache.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/list_install_components.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/install.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/install/local.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/ZeissApp1_autogen_timestamp_deps.dir
+C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/CMakeFiles/ZeissApp1_autogen.dir

@@ -1,0 +1,21 @@
+# 忽略编译产物
+build*/
+*.exe
+*.dll
+*.obj
+*.o
+*.log
+
+# 忽略 Qt Creator 临时文件
+*.user
+*.qmake.stash
+*.autosave
+
+# 忽略 CMake 生成的垃圾
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 忽略 VSCode 设置（如果有）
+.vscode/

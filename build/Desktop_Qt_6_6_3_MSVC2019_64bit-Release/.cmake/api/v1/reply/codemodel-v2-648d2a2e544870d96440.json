@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-ec23ed2634ce74ca9c66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ZeissApp1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ZeissApp1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZeissApp1-Release-28d5a613513bb4cc2981.json",
+					"name" : "ZeissApp1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZeissApp1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZeissApp1_autogen-Release-8a261cfc27beb416d523.json",
+					"name" : "ZeissApp1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZeissApp1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZeissApp1_autogen_timestamp_deps-Release-32325b220b7b65e278a7.json",
+					"name" : "ZeissApp1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/zeiss/ZeissApp1/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release",
+		"source" : "C:/zeiss/ZeissApp1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
